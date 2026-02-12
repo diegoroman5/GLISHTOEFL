@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Speech bubble icon -->
+  <g transform="translate(5, 5)">
+    <!-- Main bubble -->
+    <path d="M25 0C11.2 0 0 10.3 0 23c0 7.5 4 14.1 10 18.2L7 50l10-6c2.5 0.6 5.2 1 8 1 13.8 0 25-10.3 25-23S38.8 0 25 0z" fill="#ffffff"/>
+    <!-- Power icon -->
+    <circle cx="25" cy="23" r="12" fill="none" stroke="#0082ca" stroke-width="3"/>
+    <line x1="25" y1="11" x2="25" y2="18" stroke="#0082ca" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Text "glish" -->
+  <text x="58" y="38" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">glish</text>
+  
+  <!-- Tagline "english 4 anyone" -->
+  <text x="58" y="52" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">english 4 anyone</text>
+</svg>
